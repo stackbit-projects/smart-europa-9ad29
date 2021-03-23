@@ -20,17 +20,8 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      *
     actions: []
     actions_position: bottom
     actions_width: fourty
