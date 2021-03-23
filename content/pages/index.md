@@ -23,7 +23,7 @@ sections:
     content: |
       *
     actions:
-      - label: lorem-ipsum
+      - label: CTA
         url: '#'
         style: primary
         has_icon: false
